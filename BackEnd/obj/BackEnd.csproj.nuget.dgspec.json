@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Documents\\Elfak\\Cetvrta godina\\Napredne baze podataka\\Mongo\\Done projekat\\Recipe-Manager-with-Restaurants\\Aplikacija\\BackEnd\\BackEnd.csproj": {}
+  },
+  "projects": {
+    "F:\\Documents\\Elfak\\Cetvrta godina\\Napredne baze podataka\\Mongo\\Done projekat\\Recipe-Manager-with-Restaurants\\Aplikacija\\BackEnd\\BackEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documents\\Elfak\\Cetvrta godina\\Napredne baze podataka\\Mongo\\Done projekat\\Recipe-Manager-with-Restaurants\\Aplikacija\\BackEnd\\BackEnd.csproj",
+        "projectName": "BackEnd",
+        "projectPath": "F:\\Documents\\Elfak\\Cetvrta godina\\Napredne baze podataka\\Mongo\\Done projekat\\Recipe-Manager-with-Restaurants\\Aplikacija\\BackEnd\\BackEnd.csproj",
+        "packagesPath": "C:\\Users\\Milena\\.nuget\\packages\\",
+        "outputPath": "F:\\Documents\\Elfak\\Cetvrta godina\\Napredne baze podataka\\Mongo\\Done projekat\\Recipe-Manager-with-Restaurants\\Aplikacija\\BackEnd\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

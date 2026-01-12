@@ -1,0 +1,315 @@
+C:\Mongo\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Mongo\BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Mongo\BackEnd\bin\Debug\net8.0\BackEnd.exe
+C:\Mongo\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+C:\Mongo\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+C:\Mongo\BackEnd\bin\Debug\net8.0\BackEnd.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+C:\Mongo\BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mongo\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+C:\Mongo\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Mongo\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.dll
+C:\Mongo\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+C:\Mongo\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+C:\Mongo\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+C:\Mongo\Main grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Rad\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\Grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\package-lock.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\package-lock.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+C:\Mongo\Moja grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\package-lock.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\kris grana\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\package-lock.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Moja grana\nova sa delete\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\package-lock.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\DnsClient.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\SharpCompress.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Snappier.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Mongo\Done projekat\Recipe-Manager-with-Restaurants\Aplikacija\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
