@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="app-container" id="app-container">
+            <div class="div-title">
+                <h1>Receptarka</h1>
+                <div class="logout-div">
+                    <button class="logout-button" id="logout-button">Odjavi se</button>
+                </div>
+            </div>
+
+            <div class="filter-and-rest-div" id="filter-and-rest-div">
+                <div class="filter-div" id="filter-div">
+                    <h2 class="h2-filter-name">Filteri</h2>
+                    <div class="filter-author-div" id="filter-author-div">
+                        <label class="filter-label">Autor</label>
+                        <div id="cb-author-div"></div>
+                    </div>
+                    <div class="filter-ingredients-div" id="filter-ingredients-div">
+                        <label class="filter-label">Sastojci</label>
+                        <div id="cb-ingredients-div"></div>
+                    </div>
+                    <div class="filter-preptime-div" id="filter-preptime-div">
+                        <label class="filter-label">Vreme pripreme</label>
+                        <div class="slider-container">
+                            <div class="range-slider">
+                                <div class="slider-track"></div>
+                                <input type="range" id="minPrep"step="5" min="0" max="90" value="0">
+                                <input type="range" id="maxPrep" step="5" min="0" max="90" value="90">
+                            </div>
+                            <div class="values-prepTime">
+                                <span id="prepTimeRange">0 min - 90 min</span>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="button-filter" id="button-filter">Pretrazi</button>
+                </div>
+
+                <div class="create-feed-div" id="create-feed-div">
+                    
+                    <div class="create-container" id="create-container">
+                        <div class="recipe-create-div" id="recipe-create-div">
+                            <div class="create-recipe-button-and-h2">
+                                <h2>Kreiraj recept</h2>
+                                <button  class="create-recipe-unhidden" id="create-recipe-unhidden">Kreiraj</button>
+                            </div>
+
+                            <div class="recipe-form-div" id="recipe-form-div" hidden>
+                                <form class="recipe-form" id="recipe-form">
+                                    <label for="recipe-title-text">Naslov recepta</label>
+                                    <input type="text" id="recipe-title-text" placeholder="Unesite naslov recepta ovde" required>
+                                    <label for="recipe-prep-text" style="margin-top: 10px;">Vreme pripreme u minutima</label>
+                                    <input type="text" id="recipe-prep-text" placeholder="Unesite vreme pripreme ovde" required>
+
+                                    <label for="recipe-description-text" style="margin-top: 10px;">Tekst recepta</label>
+                                    <input type="text" id="recipe-description-text" placeholder="Unesite tekst recepta ovde" required>
+                                    <div class="select-for-recipe" id="select-for-recipe">
+                                        <label for="ingredient-options" style="margin-top: 10px;">Izaberite sastojke:</label>
+                                        <select class="ingredient-options" size="5" id="ingredient-options" multiple>
+                                        </select>
+                                    </div>
+
+                                    <button type="submit" class="create-recipe-button" id="create-recipe-button" style="margin-top: 12px;">Kreiraj recept</button>
+                                </form>
+                                <div class="redirect-for-create-ingredient">
+                                    <label for="label-for-new-ingredient" style="font-size: 13px; margin-top: 10px; font-weight: bold; font-style: italic;">Treba ti nov sastojak?</label>
+                                    <button style="size: 20px;" class="new-ing-from-recipe" id="new-ing-from-recipe">Napravi ga</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ingredient-create-div" id="ingredient-create-div" hidden>
+                            <h2 class="h2-create-ingredient">Napravi sastojak</h2>
+                            <div class="ingredient-fields">
+                                <form class="ingredient-form" id="ingredient-form">
+                                    <div class="ingredient-key-value">
+                                        <label style="display: inline-block; width:fit-content">Ime sastojka</label>
+                                        <input type="text" id="ingredient-name" placeholder="Unesi ime">
+                                    </div>
+                                    <div class="ingredient-key-value">
+                                        <label for="ingredient-calories">Kalorije u kcal na 100g</label>
+                                        <input type="text" id="ingredient-calories" placeholder="Unesi kalorije">
+                                    </div>
+                                    <div class="ingredient-key-value">
+                                        <label for="ingredient-type">Tip sastojka</label>
+                                        <select name="ingredient-type" id="ingredient-type" style="width: 100%;">
+                                            <option value="null" disabled selected hidden>Izaberi tip sastojka</option>
+                                            <option value="brasno">brasno</option>
+                                            <option value="mlecni proizvod">mlecni proizvod</option>
+                                            <option value="zacin">zacin</option>
+                                            <option value="voce">voce</option>
+                                            <option value="povrce">povrce</option>
+                                            <option value="testenina">testenina</option>
+                                            <option value="jaja">jaja</option>
+                                            <option value="zitarice">zitarice</option>
+                                            <option value="orasasti plodovi">orasasti plodovi</option>
+                                            <option value="meso">meso</option>
+                                            <option value="riba">riba</option>
+                                            <option value="ostalo">ostalo</option>
+                                        </select>
+                                </div>
+                                    <button class="add-ingredient" id="add-ingredient">Dodaj</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="feed-container" id="feed-container">
+                        <div class="all-recipes-container" id="all-recipes-container">
+                            <h2 style="text-align: center;">Recepti</h2>
+                            <div class="recipes-list" id="recipes-list"></div>
+                        </div>
+                    </div>
+                <!-- create-feed-div kraj -->
+                </div>
+            <!-- filter-and-rest-div -->
+            </div>
+        <!-- app-container kraj -->
+        </div>
+        
+        <script src="main.js" async defer></script>
+    </body>
+</html>
